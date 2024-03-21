@@ -1,7 +1,7 @@
 // Screen1.js
 
 import React from 'react';
-import { View, Text, Button } from 'react-native';
+import { View, Text, Button, StyleSheet } from 'react-native';
 
 export default function Screen1({ navigation }) {
   return (
